@@ -5,7 +5,7 @@ module.exports = {
       name: `Shibani Shankar Dash`,
       summary: `who totally cares about what you think of his 'anime profile picture'.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Have a piece of my mind.`,
     siteUrl: `https://sensei.ga/`,
     social: {
       twitter: `2731hai`,
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Sensei's Blog`,
+        short_name: `Sensei.ga`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
