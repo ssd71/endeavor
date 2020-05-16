@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: "2020-05-16T17:00:00Z"
-description: Or how
+description: Or how I deployed a blog for free in under an hour
 ---
 
 So I finally decided to make a blog and to use GatsbyJS for it. Having used Next.js in the past, I was drawn to it and had to decide between it and Gatsby. Having a bit of a soft spot for Next.js, I still decided to use Gatsby. Here are my reasons why:
