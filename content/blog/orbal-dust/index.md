@@ -25,7 +25,7 @@ Upon arriving at aforementioned best school, our protagonist gets to know that h
 
 ## The World
 
-![The World, pictured](dio.gif)
+![The World, pictured](https://media1.tenor.com/images/82ec65faad5569cbe9f8a77cdbc91f07/tenor.gif?itemid=10578246)
 
 _The world, haha, get it? No?_
 
