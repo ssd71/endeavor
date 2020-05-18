@@ -61,7 +61,7 @@ I can also safely say that this battle system is one of the more well thought ou
 
 That was the most reading I've done in years.
 
-It is absolutely amazing how I even remember all of that. Remember my argument against complex battle mechanics? Fuck that, this game can do all that it wants to me. The experience of slowly coming to terms with these mechanics while the game subtly hints and guides you toward them is really nice, because most of the JRPGs I've played, didn't give a shit. I am having a blast with the battles in this game, moreso than most others that I've played with.
+It is absolutely amazing how I even remember all of that. Remember my argument against complex battle mechanics? Fuck that, this game can do all that it wants to me. The experience of slowly coming to terms with these mechanics while the game subtly hints and guides you toward them is really satisfying, because most of the JRPGs I've played, didn't give a shit. I am having a blast with the battles in this game, moreso than most others that I've played with.
 
 ## Did you really read all of it? Really?
 
